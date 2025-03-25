@@ -1,4 +1,4 @@
-file = open("input.txt", "r")
+file = open("./data/input.txt", "r")
 
 list1 = []
 diff = 0
