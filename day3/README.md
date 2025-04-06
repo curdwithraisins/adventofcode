@@ -1,4 +1,5 @@
 --- Day 3: Mull It Over ---
+
 "Our computers are having issues, so I have no idea if we have any Chief Historians in stock! You're welcome to check the warehouse, though," says the mildly flustered shopkeeper at the North Pole Toboggan Rental Shop. The Historians head out to take a look.
 
 The shopkeeper turns to you. "Any chance you can see why our computers are having issues again?"
@@ -19,6 +20,7 @@ Scan the corrupted memory for uncorrupted mul instructions. What do you get if y
 Your puzzle answer was **179834255**.
 
 --- Part Two ---
+
 As you scan through the corrupted memory, you notice that some of the conditional statements are also still intact. If you handle some of the uncorrupted conditional statements in the program, you might be able to get an even more accurate result.
 
 **There are two new instructions you'll need to handle:**

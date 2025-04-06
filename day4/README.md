@@ -1,4 +1,5 @@
 --- Day 4: Ceres Search ---
+
 "Looks like the Chief's not here. Next!" One of The Historians pulls out a device and pushes the only button on it. After a brief flash, you recognize the interior of the Ceres monitoring station!
 
 As the search for the Chief continues, a small Elf who lives on the station tugs on your shirt; she'd like to know if you could help her with her word search (your puzzle input). She only has to find one word: **XMAS**.
@@ -42,6 +43,7 @@ Take a look at the little Elf's word search. How many times does XMAS appear?
 Your puzzle answer was **2639**.
 
 --- Part Two ---
+
 The Elf looks quizzically at you. Did you misunderstand the assignment?
 
 Looking for the instructions, you flip over the word search to find that this isn't actually an XMAS puzzle; it's an X-MAS puzzle in which you're supposed to find two MAS in the shape of an X. One way to achieve that is like this:
